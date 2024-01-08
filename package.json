@@ -1,11 +1,11 @@
 {
-  "name": "backend-1",
+  "name": "backend-2",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Nguyen Huynh Quang Duy",
+  "author": "Nguyen Hieu Tron",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
